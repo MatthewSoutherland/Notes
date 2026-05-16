@@ -1,0 +1,3 @@
+Things to learn:
+    - interfaces
+    - under the hood methods, example __repl__

@@ -1,0 +1,79 @@
+https://www.youtube.com/watch?v=qiQR5rTSshw
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Intro to Network Devices (part 1)
+⌨️ (0:07:24) Intro to Network Devices (part 2)
+⌨️ (0:15:12) Networking Services and Applications (part 1)
+⌨️ (0:22:49) Networking Services and Applications (part 2)
+⌨️ (0:28:17) DHCP in the Network
+⌨️ (0:38:03) Introduction to the DNS Service
+⌨️ (0:46:01) Introducing Network Address Translation
+⌨️ (0:52:52) WAN Technologies (part 1)
+⌨️ (1:03:02) WAN Technologies (part 2)
+⌨️ (1:09:32) WAN Technologies (part 3)
+⌨️ (1:17:20) WAN Technologies (part 4)
+⌨️ (1:22:32) Network Cabling (part 1)
+⌨️ (1:31:24) Network Cabling (part 2)
+⌨️ (1:38:15) Network Cabling (part 3)
+⌨️ (1:43:28) Network Topologies
+⌨️ (1:50:29) Network Infrastructure Implementations
+⌨️ (1:56:26) Introduction to IPv4 (part 1)
+⌨️ (2:02:42) Introduction to IPv4 (part 2)
+⌨️ (2:15:58) Introduction to IPv6
+⌨️ (2:26:10) Special IP Networking Concepts
+⌨️ (2:34:06) Introduction to Routing Concepts (part 1)
+⌨️ (2:40:00) Introduction to Routing Concepts (part 2)
+⌨️ (2:49:29) Introduction to Routing Protocols
+⌨️ (2:59:01) Basic Elements of Unified Communications
+⌨️ (3:04:27) Virtualization Technologies
+⌨️ (3:09:24) Storage Area Networks
+⌨️ (3:15:33) Basic Cloud Concepts
+⌨️ (3:21:43) Implementing a Basic Network
+⌨️ (3:31:02) Analyzing Monitoring Reports
+⌨️ (3:40:03) Network Monitoring (part 1)
+⌨️ (3:48:14) Network Monitoring (part 2)
+⌨️ (3:55:10) Supporting Configuration Management (part 1)
+⌨️ (4:01:52) Supporting Configuration Management (part 2)
+⌨️ (4:07:19) The Importance of Network Segmentation
+⌨️ (4:14:18) Applying Patches and Updates
+⌨️ (4:19:52) Configuring Switches (part 1)
+⌨️ (4:26:39) Configuring Switches (part 2)
+⌨️ (4:36:27) Wireless LAN Infrastructure (part 1)
+⌨️ (4:46:42) Wireless LAN Infrastructure (part 2)
+⌨️ (4:53:17) Risk and Security Related Concepts
+⌨️ (5:00:46) Common Network Vulnerabilities
+⌨️ (5:09:49) Common Network Threats (part 1)
+⌨️ (5:17:13) Common Network Threats (part 2)
+⌨️ (5:26:33) Network Hardening Techniques (part 1)
+⌨️ (5:36:00) Network Hardening Techniques (part 2)
+⌨️ (5:44:40) Network Hardening Techniques (part 3)
+⌨️ (5:50:58) Physical Network Security Control
+⌨️ (5:57:19) Firewall Basics
+⌨️ (6:06:53) Network Access Control
+⌨️ (6:13:22) Basic Forensic Concepts
+⌨️ (6:22:42) Network Troubleshooting Methodology
+⌨️ (6:29:18) Troubleshooting Connectivity with Utilities
+⌨️ (6:36:32) Troubleshooting Connectivity with Hardware
+⌨️ (6:43:39) Troubleshooting Wireless Networks (part 1)
+⌨️ (6:50:56) Troubleshooting Wireless Networks (part 2)
+⌨️ (6:57:27) Troubleshooting Copper Wire Networks (part 1)
+⌨️ (7:03:49) Troubleshooting Copper Wire Networks (part 2)
+⌨️ (7:09:19) Troubleshooting Fiber Cable Networks
+⌨️ (7:14:43) Network Troubleshooting Common Network Issues
+⌨️ (7:24:40) Common Network Security Issues
+⌨️ (7:35:12) Common WAN Components and Issues
+⌨️ (7:43:33) The OSI Networking Reference Model
+⌨️ (7:51:50) The Transport Layer Plus ICMP
+⌨️ (7:58:35) Basic Network Concepts (part 1)
+⌨️ (8:05:33) Basic Network Concepts (part 2)
+⌨️ (8:12:29) Basic Network Concepts (part 3)
+⌨️ (8:17:42) Introduction to Wireless Network Standards
+⌨️ (8:24:26) Introduction to Wired Network Standards
+⌨️ (8:32:41) Security Policies and other Documents
+⌨️ (8:40:08) Introduction to Safety Practices (part 1)
+⌨️ (8:48:34) Introduction to Safety Practices (part 2)
+⌨️ (8:54:26) Rack and Power Management
+⌨️ (9:00:25) Cable Management
+⌨️ (9:05:56) Basics of Change Management
+⌨️ (9:12:11) Common Networking Protocols (part 1)
+⌨️ (9:18:06) Common Networking Protocols (part 2)

@@ -1,0 +1,18 @@
+https://www.youtube.com/watch?v=sWbUDq4S6Y8&t=4394s
+
+⭐️ Contents ⭐️
+⌨️ (0:00:00)  Introduction
+⌨️ (0:01:38) Chapter 1. Introduction to Linux Families
+⌨️ (0:07:39) Chapter 2. Linux Philosophy and Concepts
+⌨️ (0:16:37) Chapter 3. Linux Basics and System Startup
+⌨️ (1:05:36) Chapter 4. Graphical Interface
+⌨️ (1:34:29) Chapter 5. System Configuration from the Graphical Interface
+⌨️ (2:04:27) Chapter 6. Common Applications
+⌨️ (2:12:57) Chapter 7. Command Line Operations
+⌨️ (3:25:50) Chapter 8. Finding Linux Documentation
+⌨️ (3:36:53) Chapter 9. Processes
+⌨️ (4:07:51) Chapter 10. File Operations
+⌨️ (4:31:11) Chapter 11. Text Editors
+⌨️ (4:49:25) Chapter 12. User Environment
+⌨️ (5:13:32) Chapter 13. Manipulating Text
+⌨️ (5:40:04) Chapter 14. Network Operations

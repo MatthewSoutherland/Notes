@@ -1,0 +1,113 @@
+intro: 
+https://www.youtube.com/watch?v=lJC_sJ6jhDo&list=PLTZYG7bZ1u6pQJShZs9iV0aJNzsqTm4Mx
+
+intro_2:
+https://www.youtube.com/watch?v=f_c7PrH3rX8&list=PLTZYG7bZ1u6pQJShZs9iV0aJNzsqTm4Mx&index=2
+
+0:00 Intro to IT Support
+4:40 What Does an IT Support Specialist Do?
+7:03 Course Introduction
+9:03 History of Computing: From Abacus to Analytical Engine
+14:34 The Path to Modern Computers
+25:15 Computer Language
+28:20 Character Encoding
+31:00 Binary
+33:32 How to Count in Binary
+36:17 Computer Architecture Layers: Abstraction
+38:26 Computer Architecture Overview
+
+modern computer programs and hardware:
+https://www.youtube.com/watch?v=bImv4l4f8Kw&list=PLTZYG7bZ1u6pQJShZs9iV0aJNzsqTm4Mx&index=3
+
+0:00 Introduction to Computer Hardware
+5:41 Programs & Hardware
+14:13 CPU: Computer Hardware
+18:42 RAM: Computer Hardware
+22:03 Motherboards: Computer Hardware
+25:35 Computer Storage
+29:56 Computer Power Supplies
+34:01 Computer Peripherals
+37:54 BIOS
+
+
+build a computer in 20 minutes:
+https://www.youtube.com/watch?v=2su9UP4dSzo&list=PLTZYG7bZ1u6pQJShZs9iV0aJNzsqTm4Mx&index=4
+
+IT support for moble devices:
+https://www.youtube.com/watch?v=nPVAAapx_5s&list=PLTZYG7bZ1u6pQJShZs9iV0aJNzsqTm4Mx&index=5
+
+0:00 Mobile Device Hardware
+4:23 Batteries and Charging Systems
+8:31 Mobile Device Repair
+
+operating systems composition and management:
+https://www.youtube.com/watch?v=7CrfA-ukRe4&list=PLTZYG7bZ1u6pQJShZs9iV0aJNzsqTm4Mx&index=6
+
+0:00 Introduction to Computer Operating Systems
+1:38 Remote Connection and SSH
+7:02 Remote Connections on Windows
+11:42 Components of an Operating System
+17:54 Operating Systems: Files and File Systems
+21:42 Operating Systems: Process Management
+24:23 Operating Systems: Memory Management
+26:17 I/O Management
+28:29 Interacting with the OS: User Space
+31:59 Operating System Logs
+34:05 Operating System: The Boot Process
+
+operating systems consideration and installation:
+https://www.youtube.com/watch?v=aW083dxraSA&list=PLTZYG7bZ1u6pQJShZs9iV0aJNzsqTm4Mx&index=7
+
+0:00 Choosing an Operating System
+3:14 Virtual Machines
+5:07 Installing Windows
+10:10 Installing Linux
+16:46 Mobile Operating Systems
+18:34 What is Chrome OS?
+21:53 Installing Mac OS X
+
+an in depth look at internate:
+https://www.youtube.com/watch?v=EKM7FUHZwVo&list=PLTZYG7bZ1u6pQJShZs9iV0aJNzsqTm4Mx&index=8
+
+0:00 Basics of Networking
+3:44 Networking Hardware
+14:59 Language of the Internet
+16:53 How to access the internet: The Web
+20:30 History of the Internet
+24:23 Internet Limitations
+28:06 Impact of the Internet
+31:35 Networking: Internet of Things
+33:16 Networking Privacy and Security
+
+software installation and removal:
+https://www.youtube.com/watch?v=G7hBtzi8D0o&list=PLTZYG7bZ1u6pQJShZs9iV0aJNzsqTm4Mx&index=9
+
+0:00 Introduction to Software
+0:35 What is Software?
+3:33 Types of Software
+6:53 Revisiting Abstraction
+8:00 Recipe for Computing
+11:35 Managing Software
+14:29 Installing, Updating and Removing Software on Windows
+17:17 Installing, Updating and Removing Software on Linux
+19:13 Software Automation
+
+why trouble shooting is critical:
+https://www.youtube.com/watch?v=tAp6lsooLO4&list=PLTZYG7bZ1u6pQJShZs9iV0aJNzsqTm4Mx&index=10
+
+0:00 Troubleshooting Best Practices
+2:09 Ask Questions while Troubleshooting
+6:02 Isolating the Problem
+9:25 Follow the Cookie Crumbs
+12:31 Start with the Quickest Step First in IT Support
+14:36 Troubleshooting Pitfalls to Avoid
+16:22 Ticketing Systems and Documenting Your Work
+18:49 Process Documentation
+20:35 Documenting in Ticketing Systems
+
+IT customer service:
+https://www.youtube.com/watch?v=9q44g-1wgrQ&list=PLTZYG7bZ1u6pQJShZs9iV0aJNzsqTm4Mx&index=11
+
+0:00 Customer Service: Soft Skills Introduction
+9:01 Anatomy of an Interaction with a customer
+16:26 How to Deal with Difficult Situations in IT 
