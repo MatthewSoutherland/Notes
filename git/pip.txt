@@ -1,0 +1,3 @@
+Find dependencies in local directory.
+- pip install pipreqs
+- pipreqs . --force

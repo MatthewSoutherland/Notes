@@ -1,0 +1,139 @@
+***** Create and Connect to database *****
+
+sqlite3 comes with python, so just import it...
+import sqlite3
+
+Create sqllite connection:
+create a variable and set it to sqlite3.connect(). 
+inside the connect pass in the name of the database...
+
+conn = sqlite3.connect('specs.db')
+
+You can create a data base in memory and do stuff with it,
+but when you exit the program nothing will be saved.
+to do that...
+
+conn = sqlite3.connect(':memory:')
+
+with only the two lines of code, go to git bash and type 
+in python and your python program name. Then ls to check your
+files. You will see the name of your database in the directory.
+
+***** Create A database Table *****
+to create a table you need to create a cursor. a cursor is 
+a thing that tells the database what you want to do...
+
+c = conn.cursor()
+
+Here is an example of using a doc string to create a table.
+a doc string is like a multi line comment...
+
+# Three double quotes
+c.execute("""CREATE TABLE customers (
+    customer_id INT PRIMARY KEY,
+    first_name DATATYPE,
+    last_name DATATYPE,
+    email DATATYPE
+)""")
+
+You can do the same with one set of double quotes, but it all has to be on one line.
+
+***** DATATYPES *****
+sqlite3 only has 5 DATATYPES...
+# NULL 
+# INTEGER   // whole number
+# REAL      // decimal
+# TEXT 
+# BLOB      // stored as is. image file, mp3 file.
+
+***** Commit Connection *****
+
+# Commit our command
+conn.commit()
+
+# Close our connection
+conn.close
+
+You dont have to close connection as when you end the program
+it will do that automatically, but its considered best practice.
+
+ran python app.py in terminal again.
+I noticed after running the command he deleted the whole
+create table command. So this process is setting up the database
+with python syntax.
+
+***** insert into table *****
+c.execute("INSERT INTO customers VALUES ('Matt', 'South', 'gmail.com')")
+
+
+# insert many
+# multiple tuples inside a list
+many_customer = [
+    ('jo', 'brown', '@gmail.com'),
+    ('bo', 'brown', '@gmail.com'),
+    ('toe', 'brown', '@outlook.com')
+]
+
+# Insert data into table
+c.execute("INSERT INTO customers VALUES (?, ?, ?)", many_customer)
+
+***** Query the database *****
+c.execute("SELECT * FROM customers")
+
+c.fetchone()    // will return first item
+c.fetchmany(3)  // will return three
+c.fetchall()    // will return all
+
+
+This will return a python list in terminal...
+c.execute("SELECT * FROM drillSizes")
+print(c.fetchall())
+
+#select index from tuples
+print(c.fetchone()[0])
+
+#organize on screen 
+items = c.fetchall()
+for item in items:
+    print(item)
+
+# select primary KEY
+c.execute("SELECT rowid, * FROM customers")
+
+# WHERE clause
+c.execute("SELECT * FROM customres WHERE age >= 21")
+c.execute("SELECT * FROM customers WHERE name LIKE 'brown'")
+
+
+***** Update ******
+# Update Records
+c.execute("""UPDATE customers SET first_name = 'Bob'
+            WHERE last_name = 'Elder'
+""")
+
+# Better to use the id, in case multiple Elders are in db
+c.execute("""UPDATE customers SET first_name = 'Bob'
+            WHERE rowid = 4
+""")
+
+***** DELETE ******
+# Delete
+c.execute("DELETE from customers WHERE rowid = 6")
+
+# DROP table
+c.execute("DROP TABLE customers")
+
+
+***** NOTES ******
+ORDER BY 
+c.execute("SELECT * FROM customers ORDER BY rowid DESC")
+c.execute("SELECT * FROM customers ORDER BY last_name DESC")
+
+
+AND an OR 
+c.execute("SELECT * FROM customers WHERE last_name LIKE 'Br%' AND email = 'gmail.com'")
+c.execute("SELECT * FROM customers WHERE last_name LIKE 'Br%' OR email = 'gmail.com'")
+
+LIMIT also works
+
+D

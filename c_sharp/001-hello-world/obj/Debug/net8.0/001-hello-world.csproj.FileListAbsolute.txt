@@ -1,0 +1,15 @@
+C:\Matt\notes\c_sharp\001-hello-world\bin\Debug\net8.0\001-hello-world.exe
+C:\Matt\notes\c_sharp\001-hello-world\bin\Debug\net8.0\001-hello-world.deps.json
+C:\Matt\notes\c_sharp\001-hello-world\bin\Debug\net8.0\001-hello-world.runtimeconfig.json
+C:\Matt\notes\c_sharp\001-hello-world\bin\Debug\net8.0\001-hello-world.dll
+C:\Matt\notes\c_sharp\001-hello-world\bin\Debug\net8.0\001-hello-world.pdb
+C:\Matt\notes\c_sharp\001-hello-world\obj\Debug\net8.0\001-hello-world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Matt\notes\c_sharp\001-hello-world\obj\Debug\net8.0\001-hello-world.AssemblyInfoInputs.cache
+C:\Matt\notes\c_sharp\001-hello-world\obj\Debug\net8.0\001-hello-world.AssemblyInfo.cs
+C:\Matt\notes\c_sharp\001-hello-world\obj\Debug\net8.0\001-hello-world.csproj.CoreCompileInputs.cache
+C:\Matt\notes\c_sharp\001-hello-world\obj\Debug\net8.0\001-hello-world.sourcelink.json
+C:\Matt\notes\c_sharp\001-hello-world\obj\Debug\net8.0\001-hello-world.dll
+C:\Matt\notes\c_sharp\001-hello-world\obj\Debug\net8.0\refint\001-hello-world.dll
+C:\Matt\notes\c_sharp\001-hello-world\obj\Debug\net8.0\001-hello-world.pdb
+C:\Matt\notes\c_sharp\001-hello-world\obj\Debug\net8.0\001-hello-world.genruntimeconfig.cache
+C:\Matt\notes\c_sharp\001-hello-world\obj\Debug\net8.0\ref\001-hello-world.dll
